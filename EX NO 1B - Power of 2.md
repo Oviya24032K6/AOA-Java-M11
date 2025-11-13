@@ -1,6 +1,6 @@
 
 # EX 1B Power of 2
-## DATE:22/09/2025
+## DATE:11/09/2025
 ## AIM:
 To write a Java program to for given constraints.Given an integer n, return true if it is a power of two. Otherwise, return false.
 
